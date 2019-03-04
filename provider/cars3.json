@@ -1,0 +1,18 @@
+[
+    {
+        "number": "0",
+        "model": "0",
+        "year": "0",
+        "mileage": "0",
+        "inspection_date": "0",
+        "color": "0"
+    },
+    {
+        "number": "1",
+        "model": "1",
+        "year": "1",
+        "mileage": "1",
+        "inspection_date": "1",
+        "color": "1"
+    }
+]

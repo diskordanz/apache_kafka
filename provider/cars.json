@@ -1,0 +1,18 @@
+[
+    {
+        "number": "12345",
+        "model": "John Doe",
+        "year": "1999",
+        "mileage": "1000",
+        "inspection_date": "10/10",
+        "color": "black"
+    },
+    {
+        "number": "foo",
+        "model": "John Foo",
+        "year": "2000",
+        "mileage": "10000",
+        "inspection_date": "10/20",
+        "color": "red"
+    }
+]
